@@ -89,6 +89,12 @@
 ]
 ```
 
+## 🚀 Project Utilization
+
+This API was utilized in the following projects:
+
+* COVID-19 Pandemic Tracker - https://ro5.herokuapp.com/
+
 ## 💻 Developer
 
 Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla)
