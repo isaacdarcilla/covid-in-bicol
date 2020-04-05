@@ -108,6 +108,7 @@
 
 ## 🚀 Project Utilization
 
+If you are using this API, please acknowledge.
 This API was utilized in the following projects:
 
 * COVID-19 Pandemic Tracker - https://ro5.herokuapp.com/
