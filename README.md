@@ -113,6 +113,8 @@ This API was utilized in the following projects:
 
 * COVID-19 Pandemic Tracker - https://ro5.herokuapp.com/
 
+![](https://github.com/isaacdarcilla/covid-in-bicol/blob/master/project.png)
+
 ## 💻 Developer
 
 Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla)
