@@ -64,7 +64,9 @@
 [
   {
     "total_positive_case": "11",
-    "total_person_monitored": "87"
+    "total_person_monitored": "100",
+    "total_recoveries": "8",
+    "total_deaths": "0"
   }
 ]
 ```
@@ -85,6 +87,21 @@
     "negative_case": "23",
     "person_monitored": "38",
     "pending_result": "7"
+  }
+]
+```
+
+5. Fetch the date of data update
+
+* `URL` - [http://ro5-covid-data.herokuapp.com/update/](http://ro5-covid-data.herokuapp.com/update/)
+* `GET`
+* `PARAM`
+* `RESULT`
+
+```json
+[
+  {
+    "updated_at": "Sat April 4, 2020 GMT +08:00"
   }
 ]
 ```
