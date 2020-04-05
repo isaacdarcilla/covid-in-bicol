@@ -1,4 +1,4 @@
-<p align="center"><img src="https://image.flaticon.com/icons/png/512/139/139315.png" width="100"></p>
+<p align="center"><img src="https://ro5.herokuapp.com/assets/img/brand/favicon.png" width="100"></p>
 
 <p align="center">API Documentaion for COVID-19 in the Bicol Region</p>
 
