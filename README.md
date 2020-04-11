@@ -124,6 +124,8 @@ Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaac
 
 Fork or star this repository for support.
 
+This project is discontinued.
+
 ## 🐞 Issues and Pull Requests
 
 Not accepting any issues and pull requests. 
