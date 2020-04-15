@@ -6,7 +6,7 @@
 
 * Basic API knowledge 🤘
 
-## ✨ Endpoints
+## ✨ API Endpoints
 
 1. Fetch all the cases in the Bicol region.
 
